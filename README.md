@@ -118,3 +118,15 @@ Contributions are what make the open-source community such an amazing place to l
 
 ## 📄 License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
+
+
+<img width="1883" height="835" alt="image" src="https://github.com/user-attachments/assets/86cd7bb3-3556-4f5b-8035-e30f35da77dd" />
+
+<img width="910" height="847" alt="image" src="https://github.com/user-attachments/assets/a18a5b33-8dd6-4404-8b53-f0fdee024c5a" />
+
+<img width="1599" height="845" alt="image" src="https://github.com/user-attachments/assets/eadb9440-9d80-4dfa-81ae-fc3ad79d2710" />
+
+<img width="1872" height="829" alt="image" src="https://github.com/user-attachments/assets/3bcbce27-66cf-4d06-80c0-048ca36007fb" />
+
+
+
