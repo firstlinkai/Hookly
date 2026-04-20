@@ -1,3 +1,5 @@
+<img width="433" height="626" alt="Whisk_68fa1b511f139b19a5143e5862c87ac0dr" src="https://github.com/user-attachments/assets/1f771884-f22c-4d39-9b3a-9030dc3a09ef" />
+
 # 🪝 Hookly
 
 **Hookly** is an AI-powered social media intelligence and creative strategy platform. It allows marketers, creators, and brands to scrape competitor data from top social platforms (TikTok, Instagram, Meta Ads), run deep AI-driven analysis on videos and comments, and automatically generate visual proposals and creative briefs based on proven viral hooks.
@@ -143,6 +145,8 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 
 
 ---
+
+
 
 
 
