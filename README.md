@@ -1,11 +1,15 @@
-<img width="433" height="626" alt="Whisk_68fa1b511f139b19a5143e5862c87ac0dr" src="https://github.com/user-attachments/assets/1f771884-f22c-4d39-9b3a-9030dc3a09ef" />
+<img width="1376" height="768" alt="Hookly_pipeline_data_analysis_pr…_202606030046" src="https://github.com/user-attachments/assets/b4770581-3541-4caf-9361-4bae0ad79c43" />
+
+
+
 
 # 🪝 Hookly
 
 **Hookly** is an AI-powered social media intelligence and creative strategy platform. It allows marketers, creators, and brands to scrape competitor data from top social platforms (TikTok, Instagram, Meta Ads), run deep AI-driven analysis on videos and comments, and automatically generate visual proposals and creative briefs based on proven viral hooks.
 
 ---
-
+<img width="433" height="626" alt="Whisk_68fa1b511f139b19a5143e5862c87ac0dr" src="https://github.com/user-attachments/assets/1f771884-f22c-4d39-9b3a-9030dc3a09ef" />
+---
 ## ✨ Features
 
 ### 📁 Workspace & Project Management
