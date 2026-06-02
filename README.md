@@ -1,7 +1,4 @@
-<img width="1376" height="768" alt="Hookly_pipeline_data_analysis_pr…_202606030046" src="https://github.com/user-attachments/assets/b4770581-3541-4caf-9361-4bae0ad79c43" />
-
-
-
+<img width="1376" height="768" alt="Hookly_pipeline_data_analysis_pr…_202606030046" src="https://github.com/user-attachments/assets/79e42a83-0af4-48ec-a7b0-1d6a25cf0fb5" />
 
 # 🪝 Hookly
 
@@ -10,6 +7,7 @@
 ---
 <img width="433" height="626" alt="Whisk_68fa1b511f139b19a5143e5862c87ac0dr" src="https://github.com/user-attachments/assets/1f771884-f22c-4d39-9b3a-9030dc3a09ef" />
 ---
+
 ## ✨ Features
 
 ### 📁 Workspace & Project Management
